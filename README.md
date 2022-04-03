@@ -1,2 +1,4 @@
 # Restaurant-menus
-Parsing data which contains information about week menu from source code of 3 restaurant webpages and showing them in table.
+Parsing data that contains information about week menu from source code of 3 restaurant webpages and showing them in table.
+
+![Screenshot_1](https://user-images.githubusercontent.com/79150859/161431959-46f2907a-022f-4e4e-973f-15d5722d4ddd.png)
